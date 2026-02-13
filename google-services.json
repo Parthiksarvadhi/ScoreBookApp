@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874182635701",
+    "project_id": "scorebook-ef819",
+    "storage_bucket": "scorebook-ef819.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874182635701:android:a464e025adc138b7894efc",
+        "android_client_info": {
+          "package_name": "com.scorebook.parthik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKlk4ZJo24Ym1frFq-8NPoRbqlJzToj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
